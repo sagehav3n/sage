@@ -3,6 +3,6 @@
     "username": "sagehav3n"
   },
   "records": {
-    "A": ["216.24.57.1"]
+    "TXT": "vc-domain-verify=vc-domain-verify=is-a.dev,22dfa716c7dd2ccbc797"
   }
 }
